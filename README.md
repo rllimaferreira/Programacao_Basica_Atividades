@@ -7,6 +7,6 @@
 
 **Curso:** Programação Básica
 
-**Módulo:** 1
+**Módulos:** 1 e 2
 
 **Professor:** Gustavo Guanabara
